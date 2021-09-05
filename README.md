@@ -5,3 +5,5 @@ Blogpost para el curso de git y Git y Git Hub
 [Platzi](https://platzi.com/home "Platzi"):green_heart:
 - Todos los comandos de Git
 - El Flujo de trabajo de GitHub
+- Creado por el increible Platzi Team
+- Valido para toda las edades
