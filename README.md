@@ -7,3 +7,4 @@ Blogpost para el curso de git y Git y Git Hub
 - El Flujo de trabajo de GitHub
 - Creado por el increible Platzi Team
 - Valido para toda las edades
+- Incluye ejemplos en linux, windows y mac
